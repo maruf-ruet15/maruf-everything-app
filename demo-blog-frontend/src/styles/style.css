@@ -1,0 +1,15 @@
+.custom-header-footer-bg-color {
+    background-color: #002a36;
+}
+.container-bg{
+    background-color: #002a36;
+}
+.main-background{
+    background-color: #073542;
+}
+.custom-container-padding{
+    /*margin-bottom: 9px;*/
+    /*margin-top: 9px;*/
+    margin-left: 130px;
+    margin-right: 130px;
+}
